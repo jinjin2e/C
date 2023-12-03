@@ -63,7 +63,7 @@
 <pre>
 <code>
 uint32_t A = 10; // 일반 변수 선언    
-uint32_t *ptr_A = &n //A를 포인터하는 변수 선언  
+uint32_t *ptr_A = &A //A를 포인터하는 변수 선언  
 uint32_t *pptr_A = &ptr_A //A를 포인터하는 ptr_A 를 포인터하는 변수 선언  
 </code>
 </pre>
