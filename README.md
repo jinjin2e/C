@@ -180,4 +180,8 @@ if(status != HAL_OK)
 
 ***
 # SPI
+***
+## 메모리 
+![image](https://github.com/jinjin2e/C/assets/93366905/f005b3a1-a876-49c7-84d5-806f9f587926)
+flash에 저장된 값과 주소 읽기
 
